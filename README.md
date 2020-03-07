@@ -12,7 +12,7 @@ Ante cualquier inquietud puedes contactarme a pavel.ojeda@outlook.com o en teleg
 
 ## **Contendidos**
 
-- ### Material de clase
+- ### [Biliografía](https://mega.nz/#F!RQ9jFTIa!mXbcX4jKF9QUQtXOnCtvdw)
 - ### Prácicas
 - ### Bases de Datos
 - ### STATA
