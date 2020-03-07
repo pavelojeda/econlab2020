@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+# econlab2020
+Sitio y repositorio: Economía Laboral 2020, semestre I
 
-You can use the [editor on GitHub](https://github.com/pavelojeda/econlab2020/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Bienvenido(a), en este sitio encontraras los materiales de clase, prácticas, códigos de stata y R y material adicional. 
+
+Ante cualquier inquietud puedes contactarme a pavel.ojeda@outlook.com o en telegram buscando el usuario @ap11ojeda
+
+
 
 ### Markdown
 
