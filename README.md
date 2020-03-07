@@ -1,5 +1,6 @@
 # Universidad Católica San Pablo 
 Sitio y repositorio: Economía Laboral 2020, semestre I
+
 *Esta página no es un sitio oficial de la U.C.B.* los contenidos y el mantenimiento son responsabilidad exclusiva del administrador del repositorio
 
 
