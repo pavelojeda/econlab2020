@@ -1,3 +1,8 @@
+
+# **ANUNCIOS**
+- Las sesiones virtuales se realizarán los días .... en el siguiente horario.
+
+
 # Universidad Católica San Pablo 
 Sitio y repositorio: Economía Laboral 2020, semestre I
 
