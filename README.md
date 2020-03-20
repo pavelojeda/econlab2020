@@ -23,8 +23,6 @@ Ante cualquier inquietud puedes contactarme a pavel.ojeda@outlook.com o en teleg
 - ### STATA
 - ### R
 
-# **ANUNCIOS**
-- Las sesiones virtuales se realizarán los días .... en el siguiente horario.
 
 ### LA SESION DE HOY
 
