@@ -1,10 +1,10 @@
 # Universidad Católica San Pablo 
 Sitio y repositorio: Economía Laboral 2020, semestre I
 
- *Esta página no es un sitio oficial de la U.C.B.* los contenidos y el mantenimiento del mismo son responsabilidad exclusiva del administrador del repositorio
+ *Esta página no es un sitio oficial de la U.C.B.* los contenidos y el mantenimiento del mismo es responsabilidad exclusiva del administrador del repositorio
 
 
-## Bienvenido(a), en este sitio encontraras los materiales de clase, prácticas, códigos de stata y R y material adicional. 
+## Bienvenido(a), en este sitio encontraras los materiales de clase, prácticas, scripts y material adicional. 
 
 Ante cualquier inquietud puedes contactarme a pavel.ojeda@outlook.com o en telegram buscando el usuario @ap11ojeda
 
