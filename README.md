@@ -26,7 +26,7 @@ Ante cualquier inquietud puedes contactarme a pavel.ojeda@outlook.com o en teleg
 
 
 ### LA SESION DE HOY
-- ## [-CLICK- aquí para acceder a la sesión]()
+- ## [-CLICK- aquí para acceder a la sesión](https://us04web.zoom.us/j/491622187?pwd=M1VRejhDSEdoek1tcXNPc1RxY1hNZz09)
 
 ### SESIONES GRABADAS
 
