@@ -1,6 +1,6 @@
 
 # **ANUNCIOS**
-- Las sesiones virtuales se realizarán los días .... en el siguiente horario.
+- Ya se encuentran cargados os tutoriales en: Demanda de trabajo (corto plazo)
 
 
 # Universidad Católica San Pablo 
@@ -19,14 +19,17 @@ Ante cualquier inquietud puedes contactarme a pavel.ojeda@outlook.com o en teleg
 
 - ### [Biliografía](https://mega.nz/#F!RQ9jFTIa!mXbcX4jKF9QUQtXOnCtvdw)
 - ### Prácticas
-- ### Bases de Datos
-- ### STATA
-- ### R
+- ### [Bases de Datos]{https://mega.nz/#F!NJNGjACS!vCoz8oTp6lMwqFhWpwrxFA}
+- ### [STATA]{https://mega.nz/#F!NJNGjACS!vCoz8oTp6lMwqFhWpwrxFA}
+- ### [R]{https://mega.nz/#F!oEVkGQDA!Jr1Vyw2AzuqvogVXt0RAWA}
+- ### [LateX]{https://mega.nz/#F!ZEFwnIKT!ttb8_LuvwArEy3VigNySRw}
 
 
 ### LA SESION DE HOY
+-## [CLICK aquí para acceder a la sesion]{}
 
 ### SESIONES GRABADAS
 
 ### TUTORIALES
+  - #[**Demanda de trabajo I**]{https://www.youtube.com/watch?v=R2S-TQo1wSM}
 
