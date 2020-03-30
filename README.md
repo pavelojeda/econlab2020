@@ -1,6 +1,6 @@
 
 # **ANUNCIOS**
-- Ya se encuentran cargados os tutoriales en: Demanda de trabajo (corto plazo)
+- Ya se encuentran cargados los tutoriales en: Demanda de trabajo (corto plazo)
 
 
 # Universidad Católica San Pablo 
@@ -26,7 +26,7 @@ Ante cualquier inquietud puedes contactarme a pavel.ojeda@outlook.com o en teleg
 
 
 ### LA SESION DE HOY
-- ## [-CLICK- aquí para acceder a la sesion]()
+- ## [-CLICK- aquí para acceder a la sesión]()
 
 ### SESIONES GRABADAS
 
