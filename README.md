@@ -21,12 +21,12 @@ Ante cualquier inquietud puedes contactarme a pavel.ojeda@outlook.com o en teleg
 - ### Prácticas
 - ### [Bases de Datos](https://mega.nz/#F!NJNGjACS!vCoz8oTp6lMwqFhWpwrxFA)
 - ### [STATA](https://mega.nz/#F!NJNGjACS!vCoz8oTp6lMwqFhWpwrxFA)
-- ### [R]{https://mega.nz/#F!oEVkGQDA!Jr1Vyw2AzuqvogVXt0RAWA)
+- ### [R](https://mega.nz/#F!oEVkGQDA!Jr1Vyw2AzuqvogVXt0RAWA)
 - ### [LateX](https://mega.nz/#F!ZEFwnIKT!ttb8_LuvwArEy3VigNySRw)
 
 
 ### LA SESION DE HOY
--## [CLICK aquí para acceder a la sesion]()
+-## [-CLICK- aquí para acceder a la sesion]()
 
 ### SESIONES GRABADAS
 
