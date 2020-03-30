@@ -26,10 +26,10 @@ Ante cualquier inquietud puedes contactarme a pavel.ojeda@outlook.com o en teleg
 
 
 ### LA SESION DE HOY
--## [-CLICK- aquí para acceder a la sesion]()
+- ## [-CLICK- aquí para acceder a la sesion]()
 
 ### SESIONES GRABADAS
 
 ### TUTORIALES
-  - #[**Demanda de trabajo I**](https://www.youtube.com/watch?v=R2S-TQo1wSM)
+  - ### [**Demanda de trabajo I**](https://www.youtube.com/watch?v=R2S-TQo1wSM)
 
