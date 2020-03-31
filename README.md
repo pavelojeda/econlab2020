@@ -1,6 +1,7 @@
 
 # **ANUNCIOS**
 - Ya se encuentran cargados los tutoriales en: Demanda de trabajo (corto plazo)
+- Los do files de las primeras dos sesiones de STATA ya están disponibles  
 
 
 # Universidad Católica San Pablo 
