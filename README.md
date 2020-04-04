@@ -1,7 +1,8 @@
 
 # **ANUNCIOS**
-- Ya se encuentran cargados los tutoriales en: Demanda de trabajo (corto plazo)
-- Los do files de las primeras dos sesiones de STATA ya están disponibles  
+- La sesión de hoy comenzara a las 18:30
+- El quiz estará disponible a partir de las 20:00 tendrá una duración de 12 minutos.
+
 
 
 # Universidad Católica San Pablo 
@@ -27,10 +28,12 @@ Ante cualquier inquietud puedes contactarme a pavel.ojeda@outlook.com o en teleg
 
 
 ### LA SESION DE HOY
-- ## [-CLICK- aquí para acceder a la sesión](https://us04web.zoom.us/j/491622187?pwd=M1VRejhDSEdoek1tcXNPc1RxY1hNZz09)
+- ## [-CLICK- aquí para acceder a la sesión](https://us04web.zoom.us/j/664386813?pwd=VjR0bktEVVFnOXRiR1dsRlBkUVAxZz09)
 
 ### SESIONES GRABADAS
 
 ### TUTORIALES
   - ### [**Demanda de trabajo I**](https://www.youtube.com/watch?v=R2S-TQo1wSM)
+-------------------------------------------------------------------------------------------------------------------------------------
 
+## [QUIZ 1](https://www.classmarker.com/online-test/start/?quiz=97a5e88fa659520c)
