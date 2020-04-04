@@ -1,6 +1,6 @@
 
 # **ANUNCIOS**
-- La sesión de hoy comenzara a las 18:30
+- La sesión de hoy comenzara a las 18:35
 - El quiz estará disponible a partir de las 20:00 tendrá una duración de 12 minutos.
 
 
@@ -26,7 +26,7 @@ Ante cualquier inquietud puedes contactarme a pavel.ojeda@outlook.com o en teleg
 - ### [R](https://mega.nz/#F!oEVkGQDA!Jr1Vyw2AzuqvogVXt0RAWA)
 - ## LateX
 - [Descarga Miktex](https://miktex.org/download)
-- [Descarga TexSttudio](https://www.texstudio.org/)
+- [Descarga TexStudio](https://www.texstudio.org/)
 
 
 ### LA SESION DE HOY
