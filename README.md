@@ -24,7 +24,9 @@ Ante cualquier inquietud puedes contactarme a pavel.ojeda@outlook.com o en teleg
 - ### [Bases de Datos](https://mega.nz/#F!NJNGjACS!vCoz8oTp6lMwqFhWpwrxFA)
 - ### [STATA](https://mega.nz/#F!NJNGjACS!vCoz8oTp6lMwqFhWpwrxFA)
 - ### [R](https://mega.nz/#F!oEVkGQDA!Jr1Vyw2AzuqvogVXt0RAWA)
-- ### [LateX](https://mega.nz/#F!ZEFwnIKT!ttb8_LuvwArEy3VigNySRw)
+- ## LateX
+- [Descarga Miktex](https://miktex.org/download)
+- [Descarga TexSttudio](https://www.texstudio.org/)
 
 
 ### LA SESION DE HOY
